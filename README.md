@@ -1,4 +1,4 @@
-#Sales Analysis Dashboard - Power BI Project
+# Sales Analysis Dashboard - Power BI Project
 
 ##Overview
 This project is a sales analysis dashboard built using a fictitious dataset of food and beverage sales from 2017 to 2019. The goal was to provide insights into total sales, average ticket value, and sales volume across different product categories and time periods.
