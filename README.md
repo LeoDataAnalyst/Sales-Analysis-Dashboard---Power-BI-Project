@@ -22,6 +22,7 @@ Established one-to-many relationships to ensure data consistency.
 
 ### 3. Creation Calendar Table:
 A Calendar Table was generated using DAX to support time-based analysis. This allowed for year-over-year and monthly comparisons.
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bf33edf8-ec26-4b99-8854-3e4f4e9f8376/2a079bfa-fda7-4a4d-9eaf-b4f62ddb2757/image.png)
 
 ### 4. DAX Measures:
   - Several DAX measures were created to facilitate key insights:
