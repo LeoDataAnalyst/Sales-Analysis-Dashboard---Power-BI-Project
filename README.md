@@ -5,6 +5,8 @@ This project is a sales analysis dashboard built using a fictitious dataset of f
 
 https://app.powerbi.com/view?r=eyJrIjoiNzExNTRmNDAtNDM5YS00ZjJhLTg0ZmMtNjU3ZWU5MTFkYmMzIiwidCI6IjA1YzA0OGU0LTFhN2YtNDBlOC1iM2M4LWVhY2MyYTc1ZTlkMyJ9
 
+![image](https://github.com/user-attachments/assets/d74c01de-6107-479f-b9b0-ee76b4c8be9c)
+
 ## Steps Taken
 ### 1. Data Cleaning and Integration:
   - The original sales data was split into three separate tables for the years 2017, 2018, and 2019.
