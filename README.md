@@ -20,6 +20,9 @@ https://app.powerbi.com/view?r=eyJrIjoiNzExNTRmNDAtNDM5YS00ZjJhLTg0ZmMtNjU3ZWU5M
   - dProdutoGrupo (Product Group).
 Established one-to-many relationships to ensure data consistency.
 
+![image](https://github.com/user-attachments/assets/6e869c98-5b86-4a88-9e5e-b0ef81e6db91)
+
+
 ### 3. Creation Calendar Table:
 A Calendar Table was generated using DAX to support time-based analysis. This allowed for year-over-year and monthly comparisons.
 
